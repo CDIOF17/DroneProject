@@ -17,6 +17,9 @@
     <Filter Include="Resource Files">
       <UniqueIdentifier>{4cceaaea-23b5-4465-aeec-3b00075be422}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\imageRecognition">
+      <UniqueIdentifier>{df08fdc6-6028-4000-8d62-f53ba0d72d6c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\src\main.cpp">
@@ -45,6 +48,9 @@
     </ClCompile>
     <ClCompile Include="..\..\src\ardrone\version.cpp">
       <Filter>Source Files\ardrone</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\Drone projekt\Drone projekt\Drone projekt\Goalfinder.cpp">
+      <Filter>Source Files\imageRecognition</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

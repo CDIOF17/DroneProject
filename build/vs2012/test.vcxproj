@@ -103,6 +103,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\Documents\Drone projekt\Drone projekt\Drone projekt\Goalfinder.cpp" />
     <ClCompile Include="..\..\src\ardrone\ardrone.cpp" />
     <ClCompile Include="..\..\src\ardrone\command.cpp" />
     <ClCompile Include="..\..\src\ardrone\config.cpp" />
